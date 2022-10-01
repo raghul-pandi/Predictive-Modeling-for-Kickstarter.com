@@ -1,1 +1,11 @@
 # Predictive-Modeling-for-Kickstarter.com
+
+##Project Description:
+
+Kickstarter.com is a crowdfunding platform that assists fundraisers in raising funds for their projects. It’s where creators share new visions for creative work with the communities that will come together to fund them. Kickstarter’s primary mission is to bring projects to life by providing resources and tools to the people. It is an organization concerned about artists and creative people having their talent and creativity come to reality. 
+
+We believe that one of the tools and resources that this organization can provide for the creative community is to help them understand how to successfully crowdfund their projects by being aware of the factors that will help them succeed. This is possible by utilizing predictive modeling in this business scenario. We have existing data that reflects several variables related to individual project fundraising. Among other things we have information about each project's creation and launch date, the project creator’s profile, each project’s description, and the fundraising goal. On top of that, we have three important variables that are meaningful to kickstarter’s business case and also help the organization to give informative ideas for the fundraisers. The first one is the “success” variable which tells us whether a project fundraised more than the goal. The second variable is “backers_count” which contains the number of backers each project attracts. Finally, we have the variable “big_hit” which shows us whether a project earned a lot more money than the goal. These three variables are instrumental for our analysis and prediction. 
+
+In addition, we saw it fit to gather external data like the location of the project because we found that the actual location of the project doesn’t necessarily correspond to the location of the user. 
+By using the above-mentioned variables as well as adding new ones, we want to assist Kickstarter to achieve its mission by providing data-backed information about the important factors that contribute to the success of a project as well as provide a validated model which predicts whether fundraising will succeed based on its existing profile.
+
