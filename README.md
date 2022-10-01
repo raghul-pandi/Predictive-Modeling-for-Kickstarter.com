@@ -1,6 +1,6 @@
 # Predictive-Modeling-for-Kickstarter.com
 
-##Project Description:
+## Project Description: ##
 
 Kickstarter.com is a crowdfunding platform that assists fundraisers in raising funds for their projects. It’s where creators share new visions for creative work with the communities that will come together to fund them. Kickstarter’s primary mission is to bring projects to life by providing resources and tools to the people. It is an organization concerned about artists and creative people having their talent and creativity come to reality. 
 
